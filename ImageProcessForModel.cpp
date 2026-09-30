@@ -4,6 +4,7 @@
 #define ROTATE_SCALE 1
 #define FLOAT_TWO 2.0f
 
+//#TODO image distortion still exist, check out croping black border
 void ImageProcessForModel::resizeByScale(const cv::Size& modelSize, const cv::Mat& source, cv::Mat& destination)
 {
     if (modelSize == source.size())

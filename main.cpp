@@ -1,6 +1,6 @@
-#include "ImageProcessForModel.h"
-
 #include <filesystem>
+
+#include "ImageProcessForModel.h"
 
 #define POKER_FOLDER "/poker_model/"
 #define CONFIG_FILE "poker.cfg"

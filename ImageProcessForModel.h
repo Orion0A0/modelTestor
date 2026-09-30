@@ -4,7 +4,7 @@
  * The class helps to do image processing for model trained from DarkNet
  */
 
-#include <DarkHelp.hpp>
+#include "DarkHelpNN.hpp"
 
 
 #ifndef POKER_IMAGEPROCESSING_H
